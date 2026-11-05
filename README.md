@@ -254,4 +254,4 @@ node .next/standalone/server.js
 > npm install @next/swc-win32-x64-msvc@16.3.4 lightningcss-win32-x64-msvc@1.33.0 --no-save
 > ```
 
-# By Aeth"# hfq_dash" 
+# By Aeth :>
