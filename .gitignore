@@ -1,0 +1,16 @@
+.env
+node_modules
+.next
+out
+build
+dist
+*.log
+npm-debug.log*
+.DS_Store
+.vscode
+.idea
+/var
+/uploads
+/prisma/*.db
+next-env.d.ts
+tsconfig.tsbuildinfo
